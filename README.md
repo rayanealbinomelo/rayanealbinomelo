@@ -5,12 +5,12 @@ Olá, me chamo Rayane e estou em transição de carreira para a área de **Tecno
 - Git e GitHub
 - Metodologias Ágeis (Scrum e Kanban)
 - Fundamentos de Programação e Lógica
+- Cypress - Automatização de Testes E2E
 
 💻 **Conhecimentos adquiridos:**
 - Controle de versões com Git e GitHub
 - Fundamentos de testes de software
 - Versionamento e colaboração em projetos
-- Práticas de documentação (README, issues, etc.)
 - Linguagens básicas para QA (HTML, CSS, JavaScript básico)
 
 ✨ **Experiências relevantes:**
