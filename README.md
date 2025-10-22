@@ -1,4 +1,4 @@
-Olá, me chamo Rayane e estou em transição de carreira para a área de **Tecnologia**, com foco em **Análise e Qualidade de Testes (QA)**. Sou formada em Medicina Veterinária, onde desenvolvi habilidades importantes como atenção aos detalhes, análise crítica e empatia — qualidades que levo comigo para a nova jornada profissional.
+Olá, me chamo Rayane e estou em transição de carreira para a área de Tecnologia, iniciei recentemente a graduação em Ciências da Computação pela Universidade Estácio de Sá e realizo cursos complementares na Alura.
 
 🎯 **Atualmente estou me dedicando a cursos e projetos voltados para:**
 - Testes Manuais e Automatizados
@@ -12,11 +12,6 @@ Olá, me chamo Rayane e estou em transição de carreira para a área de **Tecno
 - Fundamentos de testes de software
 - Versionamento e colaboração em projetos
 - Linguagens básicas para QA (HTML, CSS, JavaScript básico)
-
-✨ **Experiências relevantes:**
-- Experiência anterior como médica veterinária autônoma (domicílio e clínica)
-- Desenvolvimento de habilidades organizacionais, comunicação com clientes e tomada de decisões rápidas
-- Transição ativa para o universo de tecnologia, com foco em aprendizado contínuo
   
 🌍 Região: *Rio de Janeiro - Brasil*
 
