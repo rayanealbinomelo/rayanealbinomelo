@@ -1,23 +1,26 @@
-Olá, me chamo Rayane e estou em transição de carreira para a área de Tecnologia, iniciei recentemente a graduação em Ciências da Computação pela Universidade Estácio de Sá e realizo cursos complementares na Alura.
+Olá, me chamo Rayane e atualmente curso Ciências da Computação pela Universidade Estácio de Sá, além de realizar cursos complementares na Alura.
 
-🎯 **Atualmente estou me dedicando a cursos e projetos voltados para:**
-- Testes Manuais e Automatizados
-- Git e GitHub
-- Metodologias Ágeis (Scrum e Kanban)
-- Fundamentos de Programação e Lógica
-- Cypress - Automatização de Testes E2E
+🎯 Atualmente estou focada em desenvolvimento back-end, estudando e criando projetos com:
 
-💻 **Conhecimentos adquiridos:**
-- Controle de versões com Git e GitHub
-- Fundamentos de testes de software
-- Versionamento e colaboração em projetos
-- Linguagens básicas para QA (HTML, CSS, JavaScript básico)
-  
-🌍 Região: *Rio de Janeiro - Brasil*
+JavaScript e Node.js
+Criação de APIs REST
+Banco de dados (SQL e NoSQL)
+Git e GitHub
+Lógica de programação e estruturas de dados
 
-📫 **Vamos nos conectar?**
-- Meu LinkedIn: [LinkedIn](https://www.linkedin.com/in/rayane-virgolino-98824a375/) <!-- coloque o link real -->
-- Email: r.albinomelo@gmail.com <!-- substitua se desejar -->
-- GitHub: [@rayanealbinomelo](https://github.com/rayanealbinomelo) <!-- ajuste para seu nome de usuário -->
+💻 Conhecimentos adquiridos:
 
-💡 Curiosa, resiliente e sempre pronta para aprender algo novo!
+Desenvolvimento de aplicações back-end com JavaScript
+Versionamento de código com Git e GitHub
+Estruturação e consumo de APIs
+Fundamentos de banco de dados
+Boas práticas de código e organização de projetos
+
+🌍 Região: Rio de Janeiro - Brasil
+
+📫 Vamos nos conectar?
+
+Meu LinkedIn: www.linkedin.com/in/rayanealbino
+GitHub: @rayanealbinomelo
+
+💡 Focada em evoluir como desenvolvedora back-end, construindo soluções eficientes e aprendendo todos os dias.
