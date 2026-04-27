@@ -1,20 +1,10 @@
-Olá, me chamo Rayane e atualmente curso Ciências da Computação pela Universidade Estácio de Sá, além de realizar cursos complementares na Alura.
+💻 Back-End em formação | JavaScript & Node.js
+Construindo minha base em lógica, estrutura de código e banco de dados — um commit por vez.
 
-🎯 Atualmente estou focada em desenvolvimento back-end, estudando e criando projetos com:
+🚀 Interessada em desenvolvimento de APIs, qualidade de software e sistemas bem estruturados.
+🧪 Explorando testes automatizados com Cypress e Robot Framework.
 
-JavaScript e Node.js
-Criação de APIs REST
-Banco de dados (SQL e NoSQL)
-Git e GitHub
-Lógica de programação e estruturas de dados
-
-💻 Conhecimentos adquiridos:
-
-Desenvolvimento de aplicações back-end com JavaScript
-Versionamento de código com Git e GitHub
-Estruturação e consumo de APIs
-Fundamentos de banco de dados
-Boas práticas de código e organização de projetos
+🌱 Em busca da minha primeira oportunidade de estágio para transformar aprendizado em prática e evoluir todos os dias.
 
 🌍 Região: Rio de Janeiro - Brasil
 
@@ -23,4 +13,3 @@ Boas práticas de código e organização de projetos
 Meu LinkedIn: www.linkedin.com/in/rayanealbino
 GitHub: @rayanealbinomelo
 
-💡 Focada em evoluir como desenvolvedora back-end, construindo soluções eficientes e aprendendo todos os dias.
