@@ -1,4 +1,5 @@
-💻 Back-End em formação | JavaScript & Node.js
+💻 Back-End em formação | JavaScript - Node.js - Python - Modelagem de Dados
+
 Construindo minha base em lógica, estrutura de código e banco de dados — um commit por vez.
 
 🚀 Interessada em desenvolvimento de APIs, e sistemas bem estruturados.
