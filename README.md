@@ -1,4 +1,4 @@
-💻 Back-End em formação | JavaScript - Node.js - Python - Modelagem de Dados
+💻 Software Developer em formação | JavaScript - Node.js - Python - Banco de Dados
 
 Construindo minha base em lógica, estrutura de código e banco de dados — um commit por vez.
 
