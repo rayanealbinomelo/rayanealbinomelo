@@ -1,15 +1,16 @@
-💻 Software Developer em formação | JavaScript - Node.js - Python - Banco de Dados
+👩‍💻 Estudante de Ciência da Computação | Dados | SQL | Python
 
-Construindo minha base em lógica, estrutura de código e banco de dados — um commit por vez.
+Transformando dados em informação através de análises, consultas SQL e desenvolvimento de soluções orientadas a dados.
 
-🚀 Interessada em desenvolvimento de APIs, e sistemas bem estruturados.
+📊 Estudando Análise de Dados, Engenharia de Dados, Banco de Dados e Python, enquanto construo projetos para fortalecer minha experiência prática.
 
-🌱 Em busca da minha primeira oportunidade de estágio para transformar aprendizado em prática e evoluir todos os dias.
+🚀 Interesse em Engenharia de Dados, Análise de Dados, ETL, Bancos de Dados e automação de processos.
 
-🌍 Região: Rio de Janeiro - Brasil
+🌱 Em busca da minha primeira oportunidade de estágio na área de Dados para aplicar conhecimentos, aprender com profissionais experientes e evoluir continuamente.
+
+🌍 Niterói, Rio de Janeiro - Brasil
 
 📫 Vamos nos conectar?
 
-Meu LinkedIn: www.linkedin.com/in/rayanealbino
+LinkedIn: linkedin.com/in/rayanealbino
 GitHub: @rayanealbinomelo
-
