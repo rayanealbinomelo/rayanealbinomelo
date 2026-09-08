@@ -1,16 +1,11 @@
 👩‍💻 Estudante de Ciência da Computação | Dados | SQL | Python
 
-Transformando dados em informação através de análises, consultas SQL e desenvolvimento de soluções orientadas a dados.
+🩺 Ex-veterinária em transição de carreira para Dados, trazendo raciocínio analítico e atenção a detalhes para a área de tecnologia.
 
-📊 Estudando Análise de Dados, Engenharia de Dados, Banco de Dados e Python, enquanto construo projetos para fortalecer minha experiência prática.
+📊 Estudando Análise de Dados, Banco de Dados e Python, construindo projetos para fortalecer minha experiência prática.
 
-🚀 Interesse em Engenharia de Dados, Análise de Dados, ETL, Bancos de Dados e automação de processos.
-
-🌱 Em busca da minha primeira oportunidade de estágio na área de Dados para aplicar conhecimentos, aprender com profissionais experientes e evoluir continuamente.
+🌱 Em busca da minha primeira oportunidade de estágio em Dados, para aplicar conhecimentos, aprender com profissionais experientes e evoluir continuamente.
 
 🌍 Niterói, Rio de Janeiro - Brasil
 
-📫 Vamos nos conectar?
-
-LinkedIn: linkedin.com/in/rayanealbino
-GitHub: @rayanealbinomelo
+📫 Vamos nos conectar? [LinkedIn](https://linkedin.com/in/rayanealbino)
